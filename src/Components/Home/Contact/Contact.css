@@ -1,0 +1,20 @@
+.contact-section {
+    height: 650px;
+    background-image: linear-gradient(rgba(36, 41, 73, 0.8), rgba(36, 41, 73, 0.8)),
+    url('../../../images/appointmentBG.png');
+    background-position: center ;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+}
+input[name="email"], input[name="subject"] {
+    width: 800px;
+    height: 50px;
+    padding-left: 1rem;
+}
+
+textarea[name="message"] {
+    width: 800px;
+    height: 200px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}

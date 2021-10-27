@@ -1,0 +1,14 @@
+.sidebar {
+    height: 100vh;
+    background-color: #15d1c0;
+    padding-left: 3rem;
+    padding-top: 5rem;
+}
+.link {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+.link:hover {
+    color: white;
+}

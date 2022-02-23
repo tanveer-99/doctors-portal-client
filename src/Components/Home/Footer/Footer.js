@@ -57,6 +57,7 @@ const Footer = () => {
 
             </div>
             <p className="text-center text-secondary pt-5 mt-5">Copyright {new Date().getFullYear()} All Rights Reserved</p>
+            <p className="text-center text-secondary mt-3">MDH Tanvir</p>
         </section>
     );
 };
